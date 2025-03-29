@@ -28,3 +28,4 @@ Polish UI layout
 Update API endpoint
 Rewrite function Y
 Update dependencies
+Polish UI layout
