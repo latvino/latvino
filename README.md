@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Add new utility script
 Fix bug in feature X
 Update dependencies
+Improve error handling
