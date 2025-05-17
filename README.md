@@ -24,3 +24,4 @@ Improve performance
 Polish UI layout
 Rewrite function Y
 Fix typo in README
+Polish UI layout
