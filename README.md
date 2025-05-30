@@ -26,3 +26,4 @@ Rewrite function Y
 Fix typo in README
 Polish UI layout
 Update API endpoint
+Rewrite function Y
